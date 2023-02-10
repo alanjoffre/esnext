@@ -1,2 +1,2 @@
 # Esnext
-Repositório com aprendizado e exercícios: Esnext
+- Repositório com: artigos, aprendizados, exercícios e projetos.
